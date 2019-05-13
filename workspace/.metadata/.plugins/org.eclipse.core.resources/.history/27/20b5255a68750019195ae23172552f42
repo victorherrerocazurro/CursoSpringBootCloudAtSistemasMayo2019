@@ -1,0 +1,14 @@
+package com.atsistemas.curso.datajpa;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "PERSONAS")
+public class Persona {
+
+	@Id
+	private Long id;
+	
+}

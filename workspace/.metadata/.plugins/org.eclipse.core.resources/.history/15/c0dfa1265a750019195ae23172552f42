@@ -1,0 +1,14 @@
+package com.atsistemas.curso.holamundoweb;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class HolaMundoController {
+
+	@RequestMapping
+	public String holaMundo() {
+		return "Hola Mundo!!!";
+	}
+	
+}

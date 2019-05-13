@@ -1,0 +1,16 @@
+package com.atsistemas.curso.datajpa;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+
+public interface PersonaRepository extends JpaRepository<Persona, Long>{
+
+	List<Persona> findByNombre(String nombre);
+	
+	//@Query("select p from Persona p where p.nombre = ?1")
+	@Query(nativeQuery = true, value = "SELECT * FROM PERSONAS WHERE NOMBRE = ?1")
+	List<Persona> buscarPorNombre(String nombre);
+	
+}
