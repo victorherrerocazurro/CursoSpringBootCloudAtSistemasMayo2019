@@ -1,1 +1,3 @@
 Darksky: 7546f54c1c0561c1be0212d91d7f0ba4
+
+EJ: https://api.darksky.net/forecast/7546f54c1c0561c1be0212d91d7f0ba4/53.5511,9.9937
