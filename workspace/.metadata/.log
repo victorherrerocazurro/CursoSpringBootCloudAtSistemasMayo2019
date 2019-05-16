@@ -9433,3 +9433,2230 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:29:13.079
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bGKWWmit => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.354
+!MESSAGE Boot LS startup time from start to initialized: 6988ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.418
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iXRbLjyu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.428
+!MESSAGE subscribing to classpath changes: sts4.classpath.iXRbLjyu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.439
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.451
+!MESSAGE subsribers = [sts4.classpath.iXRbLjyu]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.463
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.473
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.483
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.495
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.505
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.518
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.530
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.540
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.550
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.560
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.570
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.584
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.596
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.610
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iXRbLjyu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.704
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.719
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.735
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.750
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.762
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.790
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.803
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.816
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.836
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.846
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.869
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.887
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.901
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.912
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.919
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.938
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.972
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:29.984
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.000
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.011
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.033
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.066
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.079
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.099
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.109
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.141
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.154
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.168
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.181
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.188
+!MESSAGE executing callback sts4.classpath.iXRbLjyu 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:30.201
+!MESSAGE executing callback sts4.classpath.iXRbLjyu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:38.514
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iXRbLjyu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:38.526
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iXRbLjyu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:38.535
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-14 16:32:38.542
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iXRbLjyu => OK
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-05-14 17:24:02.731
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.ls.eclipse.commons.STS4LanguageServerProcessStreamConnector$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-05-14 17:24:02.752
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.ls.eclipse.commons.STS4LanguageServerProcessStreamConnector$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-05-14 17:24:02.769
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.ls.eclipse.commons.STS4LanguageServerProcessStreamConnector$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-05-14 17:24:02.782
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.ls.eclipse.commons.STS4LanguageServerProcessStreamConnector$1
+!SESSION 2019-05-16 08:40:26.276 -----------------------------------------------
+eclipse.buildId=4.2.1.201904170946-RELEASE
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-16 08:41:21.960
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-16 08:41:29.858
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-16 08:41:29.858
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@42734b71,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a45308f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-05-16 08:42:18.010
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ATSPRESTAMO'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:34.235
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:34.336
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4e0a5606[org.springframework.tooling.boot.ls:1.6.0.201904170912(id=534)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:34.348
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:35.455
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:43.813
+!MESSAGE Boot LS startup time from start to initialized: 9384ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:44.177
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QFxbIbIa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:44.188
+!MESSAGE subscribing to classpath changes: sts4.classpath.QFxbIbIa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:44.216
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:44.229
+!MESSAGE subsribers = [sts4.classpath.QFxbIbIa]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:44.242
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:55.930
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:55.957
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:55.999
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.016
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.027
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.056
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.075
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.092
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.108
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.124
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.144
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.164
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.180
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QFxbIbIa => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.274
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.285
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.296
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.323
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.333
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.370
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.385
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.405
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.433
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.444
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.492
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.514
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.558
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.572
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.626
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.649
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.689
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.717
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.732
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.776
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.802
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.841
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.871
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.923
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.958
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:56.987
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:57.011
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:57.048
+!MESSAGE executing callback sts4.classpath.QFxbIbIa 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:45:57.100
+!MESSAGE executing callback sts4.classpath.QFxbIbIa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:46:32.220
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QFxbIbIa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:46:32.242
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.QFxbIbIa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:46:32.271
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:46:32.290
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QFxbIbIa => OK
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-05-16 08:48:22.020
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-05-16 08:48:23.145
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:13.483
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter-amqp:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-amqp:jar:sources:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-amqp:jar:sources:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.485
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-amqp:jar:sources:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.485
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-amqp:jar:sources:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:13.582
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter:jar:sources:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter:jar:sources:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.582
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter:jar:sources:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.582
+!MESSAGE Missing org.springframework.boot:spring-boot-starter:jar:sources:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:13.685
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter-logging:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-logging:jar:sources:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-logging:jar:sources:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.686
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-logging:jar:sources:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:13.686
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-logging:jar:sources:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:19.777
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter-data-mongodb:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-data-mongodb:jar:sources:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-data-mongodb:jar:sources:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:19.777
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-data-mongodb:jar:sources:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:19.777
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-data-mongodb:jar:sources:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:23.317
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter-test:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-test:jar:sources:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-test:jar:sources:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:23.318
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-test:jar:sources:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:23.318
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-test:jar:sources:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:32.847
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter-amqp:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-amqp:jar:javadoc:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-amqp:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:32.847
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-amqp:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:32.847
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-amqp:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:32.938
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter:jar:javadoc:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:32.938
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:32.938
+!MESSAGE Missing org.springframework.boot:spring-boot-starter:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:33.103
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter-logging:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-logging:jar:javadoc:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-logging:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.103
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-logging:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.104
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-logging:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:33.279
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter-data-mongodb:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-data-mongodb:jar:javadoc:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-data-mongodb:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.279
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-data-mongodb:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.279
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-data-mongodb:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 08:51:33.623
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter-test:2.1.5.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-test:jar:javadoc:2.1.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-test:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.623
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-test:jar:javadoc:2.1.5.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 08:51:33.623
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-test:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:22.948
+!MESSAGE Boot LS startup time from start to initialized: 8708ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:23.077
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MiSDvzww
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:23.158
+!MESSAGE subscribing to classpath changes: sts4.classpath.MiSDvzww
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:23.288
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:23.318
+!MESSAGE subsribers = [sts4.classpath.MiSDvzww]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:23.363
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.278
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.294
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.315
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.329
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.344
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.362
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.384
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.396
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.408
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.424
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.453
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.491
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.507
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.523
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.566
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MiSDvzww => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.739
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.819
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.876
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:24.889
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2 false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.023
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.067
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.077
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.098
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.114
+!MESSAGE executing callback sts4.classpath.MiSDvzww 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.172
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.213
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.227
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.257
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.273
+!MESSAGE executing callback sts4.classpath.MiSDvzww 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.302
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.323
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.333
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.348
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.359
+!MESSAGE executing callback sts4.classpath.MiSDvzww 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.377
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.412
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.422
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.451
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:25.467
+!MESSAGE executing callback sts4.classpath.MiSDvzww 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.650
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.719
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.743
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.789
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.816
+!MESSAGE executing callback sts4.classpath.MiSDvzww 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.898
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.913
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.928
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.955
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:26.966
+!MESSAGE executing callback sts4.classpath.MiSDvzww 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.011
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.040
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.075
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.089
+!MESSAGE executing callback sts4.classpath.MiSDvzww 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:52:27.111
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:57:19.752
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:57:19.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:57:19.821
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:57:19.828
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:57:19.963
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:58:12.745
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:58:12.764
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:58:12.785
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:58:12.800
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2-Persistencia false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 08:58:13.070
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:11.132
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:11.159
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:11.184
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:11.205
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2-Persistencia false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:11.347
+!MESSAGE executing callback sts4.classpath.MiSDvzww SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.239
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.268
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MiSDvzww
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.280
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.306
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MiSDvzww
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.328
+!MESSAGE executing callback sts4.classpath.MiSDvzww 08-EjercicioApiTiempo-v2-Persistencia true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.345
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.406
+!MESSAGE executing callback sts4.classpath.MiSDvzww FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:07:38.421
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MiSDvzww => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-05-16 09:07:38.431
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.MiSDvzww'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.172
+!MESSAGE Boot LS startup time from start to initialized: 8759ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.346
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kZliqZEZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.365
+!MESSAGE subscribing to classpath changes: sts4.classpath.kZliqZEZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.390
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.424
+!MESSAGE subsribers = [sts4.classpath.kZliqZEZ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.458
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.498
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.506
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.516
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.523
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.532
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.545
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.566
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.588
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 08-EjercicioApiTiempo-v2 false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.614
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.645
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.665
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.686
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.693
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.701
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.716
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kZliqZEZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.750
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.759
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.765
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.777
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.786
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.811
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.827
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.838
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.859
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.866
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.891
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.900
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.908
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.925
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:00.948
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.049
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.124
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.182
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.222
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.253
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.365
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.528
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.658
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.758
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.773
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.799
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.814
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.832
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:01.979
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.104
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.142
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.152
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.162
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.182
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.203
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.218
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.236
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.255
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.274
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.285
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:02.350
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:47.733
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:47.760
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:47.776
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:47.788
+!MESSAGE executing callback sts4.classpath.kZliqZEZ 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:47.872
+!MESSAGE executing callback sts4.classpath.kZliqZEZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:53.365
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kZliqZEZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:53.385
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.kZliqZEZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:53.433
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 09:09:53.452
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kZliqZEZ => OK
+
+!ENTRY org.eclipse.ui 4 0 2019-05-16 09:09:53.749
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4699)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Composite.getChildren(Composite.java:469)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceDropAdapter.lambda$0(MarketplaceDropAdapter.java:136)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:566)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:661)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1476)
+
+!ENTRY org.eclipse.ui 4 0 2019-05-16 09:09:53.757
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4699)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Composite.getChildren(Composite.java:469)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceDropAdapter.lambda$0(MarketplaceDropAdapter.java:136)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:566)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:661)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1476)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:35:14.608
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:35:14.661
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.439
+!MESSAGE Boot LS startup time from start to initialized: 5994ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.499
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gYIuBDEE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.548
+!MESSAGE subscribing to classpath changes: sts4.classpath.gYIuBDEE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.578
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.592
+!MESSAGE subsribers = [sts4.classpath.gYIuBDEE]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.604
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.615
+!MESSAGE project 09-SpringWebMvc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.629
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.640
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.648
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.658
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.665
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.673
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.680
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.690
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.705
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.715
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.729
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.748
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.757
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.768
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.775
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gYIuBDEE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.784
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.791
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.798
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.811
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.818
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.884
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.893
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.903
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.920
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.927
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 08-EjercicioApiTiempo-v2 false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:35:59.995
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.008
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.020
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.037
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.044
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.071
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.082
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.091
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.108
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.118
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.137
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.148
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.159
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.171
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.183
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.202
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.211
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.219
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.231
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.239
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.258
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.269
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.281
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.316
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.355
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.413
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.437
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.449
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.469
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.480
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.533
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.548
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.559
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.575
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.590
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:36:00.611
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:38:37.454
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:38:37.485
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:38:49.173
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:38:49.184
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:38:49.195
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:38:49.215
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:38:49.250
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:38:49.422
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:38:49.441
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:39:36.274
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:39:36.310
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:39:44.120
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:39:44.136
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:42:11.980
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:42:11.992
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:42:12.002
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:42:12.018
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:42:12.039
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:42:12.164
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:42:12.192
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:44:35.077
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:44:35.107
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:45:55.888
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:45:55.928
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:45:56.153
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:45:56.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:45:56.256
+!MESSAGE classpath=15 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:45:56.276
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 15
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 10:45:56.313
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2019-05-16 10:51:21.553
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.238
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.247
+!MESSAGE Project facet jst.ejb has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.254
+!MESSAGE Project facet jst.ear has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.261
+!MESSAGE Project facet jst.connector has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.268
+!MESSAGE Project facet jst.appclient has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.278
+!MESSAGE Project facet jst.utility has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.287
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.294
+!MESSAGE Project facet jst.ejb has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.302
+!MESSAGE Project facet jst.ear has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.309
+!MESSAGE Project facet jst.connector has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.316
+!MESSAGE Project facet jst.appclient has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.323
+!MESSAGE Project facet jst.utility has not been defined. It is used in plugin org.eclipse.jst.server.generic.jonas.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.329
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.336
+!MESSAGE Project facet jst.utility has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.342
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.348
+!MESSAGE Project facet jst.utility has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2019-05-16 10:55:18.356
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:55:19.220
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 10:55:19.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:04:44.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:04:44.181
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:44.403
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:44.474
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:44.534
+!MESSAGE classpath=27 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:44.553
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 27
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:44.616
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:48.889
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:48.921
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:48.943
+!MESSAGE classpath=27 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:48.955
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 27
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:04:49.002
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:04:49.216
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:04:49.246
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:05.973
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:08:05.990
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:06.007
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:08:06.023
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:06.039
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:06.055
+!MESSAGE executing callback sts4.classpath.gYIuBDEE 09-SpringWebMvc false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:06.118
+!MESSAGE executing callback sts4.classpath.gYIuBDEE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:25.618
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.gYIuBDEE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:25.645
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.gYIuBDEE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:25.679
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:08:25.704
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.gYIuBDEE => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:12:40.607
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:12:40.694
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.772
+!MESSAGE Boot LS startup time from start to initialized: 16699ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.800
+!MESSAGE Boot LS startup time from start to initialized: 16700ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.840
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sTpFeXjE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.873
+!MESSAGE subscribing to classpath changes: sts4.classpath.sTpFeXjE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.892
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.904
+!MESSAGE subsribers = [sts4.classpath.sTpFeXjE]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.928
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.960
+!MESSAGE project 09-SpringWebMvc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.983
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:57.994
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.041
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.069
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.080
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.094
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.112
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 09-SpringWebMvc false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.131
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.175
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.203
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.223
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.240
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.253
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.265
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.325
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.353
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.370
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sTpFeXjE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.387
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.411
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.428
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.452
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.467
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.584
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.603
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.646
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.681
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.727
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 08-EjercicioApiTiempo-v2 false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.840
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.889
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.929
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.958
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:58.969
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.032
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.173
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.217
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.291
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.309
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.349
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.513
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.528
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.555
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.575
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.675
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.748
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.838
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:12:59.868
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.125
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.270
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.351
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.464
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.601
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.741
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.764
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:00.909
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.066
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.206
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.311
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.427
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.529
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.558
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.578
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:01.624
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:13:03.135
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:13:12.306
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:13:12.449
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:18:37.009
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:18:37.093
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:19:26.358
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:19:26.416
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:21:20.164
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-16 11:21:20.357
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:56:25.649
+!MESSAGE Preparing classpath changed notification 09-SpringWebMvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:56:25.743
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:56:25.763
+!MESSAGE executing callback sts4.classpath.sTpFeXjE 09-SpringWebMvc true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 11:56:25.905
+!MESSAGE executing callback sts4.classpath.sTpFeXjE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:16.755
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sTpFeXjE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:16.770
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.sTpFeXjE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:16.781
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:16.791
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sTpFeXjE => OK
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-16 12:27:23.714
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.233
+!MESSAGE Boot LS startup time from start to initialized: 6770ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.296
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gNiHatge
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.308
+!MESSAGE subscribing to classpath changes: sts4.classpath.gNiHatge
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.324
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.337
+!MESSAGE subsribers = [sts4.classpath.gNiHatge]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.350
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.362
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.372
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.383
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.399
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.413
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.428
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.436
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.444
+!MESSAGE executing callback sts4.classpath.gNiHatge 01-HolaMundoWeb false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.451
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.467
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.480
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.497
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.509
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.523
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.532
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.539
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.549
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gNiHatge => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.560
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.579
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.592
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.648
+!MESSAGE classpath=59 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.655
+!MESSAGE executing callback sts4.classpath.gNiHatge 08-EjercicioApiTiempo-v2-Persistencia false 59
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.714
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.727
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.761
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.772
+!MESSAGE executing callback sts4.classpath.gNiHatge 08-EjercicioApiTiempo-v2 false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.822
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.842
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.876
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.922
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.937
+!MESSAGE executing callback sts4.classpath.gNiHatge 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:27.995
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.074
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.085
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.104
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.118
+!MESSAGE executing callback sts4.classpath.gNiHatge 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.180
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.224
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.241
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.260
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.288
+!MESSAGE executing callback sts4.classpath.gNiHatge 06-ConsumidorAMQP false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.336
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.377
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.396
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.425
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.453
+!MESSAGE executing callback sts4.classpath.gNiHatge 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.515
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.591
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.675
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.706
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.724
+!MESSAGE executing callback sts4.classpath.gNiHatge 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.749
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.783
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.808
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.931
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.943
+!MESSAGE executing callback sts4.classpath.gNiHatge 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:27:28.994
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:29:54.626
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:29:54.643
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:29:54.658
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:29:54.670
+!MESSAGE executing callback sts4.classpath.gNiHatge 01-HolaMundoWeb false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:29:54.842
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 12:29:58.327
+!MESSAGE Could not download sources for org.springframework.boot:spring-boot-starter-thymeleaf:2.1.4.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:sources:2.1.4.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-thymeleaf:jar:sources:2.1.4.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 12:29:58.328
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:sources:2.1.4.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 12:29:58.328
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-thymeleaf:jar:sources:2.1.4.RELEASE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:30:01.212
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:30:01.294
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:30:01.319
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:30:01.340
+!MESSAGE executing callback sts4.classpath.gNiHatge 01-HolaMundoWeb false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 12:30:01.495
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-16 12:30:02.524
+!MESSAGE Could not download javadoc for org.springframework.boot:spring-boot-starter-thymeleaf:2.1.4.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.1.4.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.1.4.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-16 12:30:02.525
+!MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.1.4.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-16 12:30:02.525
+!MESSAGE Missing org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.1.4.RELEASE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 16:53:27.660
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 16:53:27.744
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 16:53:27.857
+!MESSAGE classpath=55 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 16:53:27.871
+!MESSAGE executing callback sts4.classpath.gNiHatge 06-ConsumidorAMQP false 55
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-16 16:53:28.019
+!MESSAGE executing callback sts4.classpath.gNiHatge SUCCESS [done]
