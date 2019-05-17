@@ -4988,3 +4988,76 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-05-17 12:57:53,895 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-05-17 12:57:53,907 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-05-17 12:57:53,916 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 12:57:53,917 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\08-EjercicioApiTiempo-v2-Persistencia\src\test\resources
+2019-05-17 13:15:28,522 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atsistemas.curso:01-HolaMundoWeb:0.0.1-SNAPSHOT @ C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\pom.xml.
+2019-05-17 13:15:29,447 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1.pom
+2019-05-17 13:15:29,539 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1.pom
+2019-05-17 13:15:29,802 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1.jar
+2019-05-17 13:15:30,016 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1.jar
+2019-05-17 13:15:31,459 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:31,467 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:15:31,482 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:15:31,490 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:31,490 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:15:33,233 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1-sources.jar
+2019-05-17 13:15:33,238 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:33,321 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:15:33,342 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.1/jquery-dist-3.4.1-sources.jar
+2019-05-17 13:15:33,370 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:15:33,417 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:33,455 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:15:33,665 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.bowergithub.jquery:jquery-dist:3.4.1
+2019-05-17 13:15:34,670 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:34,670 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:15:34,685 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:15:34,688 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:15:34,708 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:23:42,396 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atsistemas.curso:01-HolaMundoWeb:0.0.1-SNAPSHOT @ C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\pom.xml.
+2019-05-17 13:23:43,099 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0.pom
+2019-05-17 13:23:43,204 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0.pom
+2019-05-17 13:23:43,810 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0.jar
+2019-05-17 13:23:44,047 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0.jar
+2019-05-17 13:23:44,716 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:44,731 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:44,741 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:44,743 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:44,756 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:23:46,685 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:46,688 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:23:46,695 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:23:46,712 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0-sources.jar
+2019-05-17 13:23:46,743 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:46,767 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:23:46,839 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/jquery/jquery-dist/3.4.0/jquery-dist-3.4.0-sources.jar
+2019-05-17 13:23:47,249 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.bowergithub.jquery:jquery-dist:3.4.0
+2019-05-17 13:23:48,191 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:48,192 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:48,192 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:48,323 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:48,324 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:23:56,225 [Worker-48: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atsistemas.curso:01-HolaMundoWeb:0.0.1-SNAPSHOT @ C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\pom.xml.
+2019-05-17 13:23:57,032 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:57,051 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:57,063 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-17 13:23:57,082 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:57,083 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:23:59,014 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:59,017 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:23:59,023 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:23:59,042 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:23:59,042 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:30:04,957 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:30:04,960 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:30:04,970 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:30:04,984 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:30:04,984 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:30:15,422 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:30:15,426 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:30:15,442 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:30:15,453 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:30:15,468 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
+2019-05-17 13:31:43,345 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:31:43,353 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:31:43,362 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-17 13:31:43,369 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-17 13:31:43,369 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ATSPRESTAMO\CursoSpring\workspace\01-HolaMundoWeb\src\test\resources
