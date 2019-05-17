@@ -1,7 +1,6 @@
 package com.atssitemas.curso.tiempo.web.api;
 
 import java.math.BigDecimal;
-import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -33,14 +32,6 @@ public class TiempoRestController {
 		PrediccionResponse resultado = tiempoService.obtenerPrediccionPorUbicacion(ubicacionRequest);
 		
 		return new ResponseEntity<PrediccionResponse>(resultado, HttpStatus.OK);
-	}
-	
-	@GetMapping
-	public ResponseEntity<Collection<PrediccionResponse>> obtenerPredicciones(){
-		
-		Collection<PrediccionResponse> resultado = tiempoService.obtenerPredicciones();
-		
-		return new ResponseEntity<Collection<PrediccionResponse>>(resultado, HttpStatus.OK);
 	}
 	
 }
