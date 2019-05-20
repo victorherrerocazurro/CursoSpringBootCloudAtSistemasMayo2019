@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Predicciones</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <table>
+      <tr>
+        <th>Icono</th>
+        <th>Descripcion</th>
+        <th>Temperatura</th>
+      </tr>
+      <tr th:each="prediccion : ${predicciones}">
+        <td th:text="${prediccion.icono}"/>
+        <td th:text="${prediccion.descripcion}"/>
+        <td th:text="${prediccion.temperatura}"/>
+      </tr>
+    </table>
+</body>
+</html>

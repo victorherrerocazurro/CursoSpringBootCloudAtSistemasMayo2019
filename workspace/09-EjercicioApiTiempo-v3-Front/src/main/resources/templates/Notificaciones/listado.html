@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Notificaciones</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>    
+    <table>
+      <tr>
+        <th>Mensaje</th>
+      </tr>
+      <tr th:each="notificacion : ${notificaciones}">
+        <td th:text="${notificacion.mensaje}"/>
+      </tr>
+    </table>
+</body>
+</html>
