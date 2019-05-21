@@ -8,7 +8,9 @@
 
 	<form action="#" th:action="@{/Predicciones/Consulta/Ubicacion}" th:object="${ubicacion}" method="post">
 		<input type="text" th:field="*{latitud}" />
+		<p th:if="${#fields.hasErrors('latitud')}" th:errors="*{latitud}">Latitud incorrecta</p>
 		<input type="text" th:field="*{longitud}" />
+		<p th:if="${#fields.hasErrors('longitud')}" th:errors="*{longitud}">Longitud incorrecta</p>
 		<button type="submit">Consultar</button>
 	</form>
 

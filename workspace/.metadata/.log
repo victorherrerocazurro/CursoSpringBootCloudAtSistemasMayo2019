@@ -5677,3 +5677,264 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:48:05.722
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uEAPXICU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.584
+!MESSAGE Boot LS startup time from start to initialized: 6769ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.646
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kzDAxKef
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.661
+!MESSAGE subscribing to classpath changes: sts4.classpath.kzDAxKef
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.749
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.760
+!MESSAGE subsribers = [sts4.classpath.kzDAxKef]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.769
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.776
+!MESSAGE project 09-EjercicioApiTiempo-v3-Front ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.784
+!MESSAGE Preparing classpath changed notification 09-EjercicioApiTiempo-v3-Front
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.795
+!MESSAGE project 01-HolaMundoWeb ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.806
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.815
+!MESSAGE project 03-DataJpa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.828
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.834
+!MESSAGE project 04-DataMongo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.842
+!MESSAGE executing callback sts4.classpath.kzDAxKef 09-EjercicioApiTiempo-v3-Front false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.850
+!MESSAGE project 05-EjercicioApiTiempo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.885
+!MESSAGE project 06-ConsumidorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.894
+!MESSAGE project 06-ProductorAMQP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.901
+!MESSAGE project 07-Seguridad ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.915
+!MESSAGE project 08-EjercicioApiTiempo-v2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.928
+!MESSAGE project 08-EjercicioApiTiempo-v2-Persistencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.938
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.946
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.957
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.963
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kzDAxKef => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:47.990
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.055
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2-Persistencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.093
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.124
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.156
+!MESSAGE executing callback sts4.classpath.kzDAxKef 08-EjercicioApiTiempo-v2-Persistencia false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.217
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.289
+!MESSAGE Preparing classpath changed notification 08-EjercicioApiTiempo-v2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.306
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.347
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.359
+!MESSAGE executing callback sts4.classpath.kzDAxKef 08-EjercicioApiTiempo-v2 false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.456
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.473
+!MESSAGE Preparing classpath changed notification 07-Seguridad
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.485
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.505
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.520
+!MESSAGE executing callback sts4.classpath.kzDAxKef 07-Seguridad false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.558
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.613
+!MESSAGE Preparing classpath changed notification 06-ProductorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.691
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.737
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.758
+!MESSAGE executing callback sts4.classpath.kzDAxKef 06-ProductorAMQP false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.781
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.801
+!MESSAGE Preparing classpath changed notification 06-ConsumidorAMQP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.816
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.842
+!MESSAGE classpath=55 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.854
+!MESSAGE executing callback sts4.classpath.kzDAxKef 06-ConsumidorAMQP false 55
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.881
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.948
+!MESSAGE Preparing classpath changed notification 05-EjercicioApiTiempo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.965
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:48.990
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.021
+!MESSAGE executing callback sts4.classpath.kzDAxKef 05-EjercicioApiTiempo false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.077
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.122
+!MESSAGE Preparing classpath changed notification 04-DataMongo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.318
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.334
+!MESSAGE executing callback sts4.classpath.kzDAxKef 04-DataMongo false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.369
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.394
+!MESSAGE Preparing classpath changed notification 03-DataJpa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.409
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.430
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.448
+!MESSAGE executing callback sts4.classpath.kzDAxKef 03-DataJpa false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.480
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.506
+!MESSAGE Preparing classpath changed notification 01-HolaMundoWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.516
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.535
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.546
+!MESSAGE executing callback sts4.classpath.kzDAxKef 01-HolaMundoWeb false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 11:57:49.568
+!MESSAGE executing callback sts4.classpath.kzDAxKef SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-20 11:57:54.328
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-20 12:26:34.112
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-20 12:26:36.571
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 13:42:59.558
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kzDAxKef
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 13:42:59.747
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.kzDAxKef
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 13:42:59.756
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-20 13:42:59.765
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kzDAxKef => OK

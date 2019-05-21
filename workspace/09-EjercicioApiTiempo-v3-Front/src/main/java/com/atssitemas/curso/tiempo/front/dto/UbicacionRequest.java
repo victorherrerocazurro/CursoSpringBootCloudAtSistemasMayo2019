@@ -3,9 +3,17 @@ package com.atssitemas.curso.tiempo.front.dto;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
+import javax.validation.constraints.Max;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotEmpty;
+
 public class UbicacionRequest implements Serializable{
 
+	@Min(-90)
+	@Max(90)
 	private BigDecimal latitud;
+	@Min(-180)
+	@Max(180)
 	private BigDecimal longitud;
 	public BigDecimal getLatitud() {
 		return latitud;
