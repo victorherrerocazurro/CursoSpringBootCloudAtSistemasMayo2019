@@ -1,9 +1,13 @@
 package com.atssitemas.curso.simpsons.web.api;
 
+import static org.springframework.hateoas.mvc.ControllerLinkBuilder.*;
+
 import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.hateoas.Resource;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -19,8 +23,8 @@ import com.atssitemas.curso.simpsons.dto.RecursosAfectadosOperationResponse;
 import com.atssitemas.curso.simpsons.service.PersonajeService;
 
 @RestController
-@RequestMapping("/Personaje")
-public class PersonajeRestController {
+@RequestMapping("/hateoas/Personaje")
+public class PersonajeHateoasRestController {
 
 	@Autowired
 	private PersonajeService personajeService;
@@ -46,12 +50,18 @@ public class PersonajeRestController {
 		return new ResponseEntity<RecursosAfectadosOperationResponse>(new RecursosAfectadosOperationResponse(numeroDeRecursosAfectados), HttpStatus.OK);
 	}
 	
-	@GetMapping("/{nombre}")
-	public ResponseEntity<Personaje> consultaPorNombre(@PathVariable String nombre) {
+	@GetMapping(path="/{nombre}", produces = "application/hal+json")
+	public ResponseEntity<Resource<Personaje>> consultaPorNombre(@PathVariable String nombre) {
 		
 		Personaje personaje = personajeService.consultaPorNombre(nombre);
 		
-		return new ResponseEntity<Personaje>(personaje, HttpStatus.OK);
+		Resource<Personaje> personajeHateoas = new Resource<>(
+			personaje,
+			linkTo(methodOn(PersonajeHateoasRestController.class).consultaPorNombre(nombre)).withSelfRel(),
+			linkTo(methodOn(PersonajeHateoasRestController.class).consultaPorNombre(personaje.getPadre())).withRel("padre"),
+			linkTo(methodOn(PersonajeHateoasRestController.class).consultaPadrePorNombre(nombre)).withRel("padre"));
+		
+		return new ResponseEntity<Resource<Personaje>>(personajeHateoas, HttpStatus.OK);
 	}
 	
 	@GetMapping

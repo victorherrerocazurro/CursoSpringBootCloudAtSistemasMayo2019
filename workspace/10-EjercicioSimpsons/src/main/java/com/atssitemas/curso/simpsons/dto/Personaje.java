@@ -2,14 +2,20 @@ package com.atssitemas.curso.simpsons.dto;
 
 import java.util.Collection;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 public class Personaje {
 
 	private String nombre; //PK
 	private String apellido;
+	private int edad;
+	
+	//Relaciones
+	@JsonIgnore
 	private String padre;
 	//private String madre;
 	//private Collection<String> hijos;
-	private int edad;
+	
 	public String getNombre() {
 		return nombre;
 	}
