@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.atssitemas.curso.tiempo.front.dto.PrediccionResponse;
 import com.atssitemas.curso.tiempo.front.dto.UbicacionRequest;
 import com.atssitemas.curso.tiempo.front.dto.UbicacionRequestValidator;
+import com.atssitemas.curso.tiempo.front.service.PrediccionOnLineService;
 import com.atssitemas.curso.tiempo.front.service.PrediccionService;
 
 @Controller
@@ -26,6 +27,9 @@ public class PrediccionController {
 
 	@Autowired
 	private PrediccionService prediccionService;
+	
+	@Autowired
+	private PrediccionOnLineService prediccionOnLineService;
 
 	@InitBinder
 	protected void initBinder(final WebDataBinder binder) {
@@ -49,7 +53,7 @@ public class PrediccionController {
 		if (errors.hasErrors()) {
 			return "Predicciones/formulario_ubicacion";
 		} else {
-			PrediccionResponse prediccionPorUbicacion = prediccionService
+			PrediccionResponse prediccionPorUbicacion = prediccionOnLineService
 					.obtenerPrediccionPorUbicacion(ubicacion.getLatitud(), ubicacion.getLongitud());
 
 			model.put("prediccion", prediccionPorUbicacion);

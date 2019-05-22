@@ -1,14 +1,16 @@
 package com.atssitemas.curso.tiempo.front.service;
 
-import java.math.BigDecimal;
 import java.util.Collection;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
 
 import com.atssitemas.curso.tiempo.front.dto.PrediccionResponse;
 
+@FeignClient(name="persistencia")
 public interface PrediccionService {
 
-	PrediccionResponse obtenerPrediccionPorUbicacion(BigDecimal latitud, BigDecimal longitud);
-
+	@GetMapping("/prediccion")
 	Collection<PrediccionResponse> obtenerPredicciones();
 	
 }
