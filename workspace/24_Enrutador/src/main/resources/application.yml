@@ -11,7 +11,7 @@ zuul:
   routes:
     cliente:
       path: /cliente/**
-      serviceId: cliente
+      serviceId: cliente-circuit-breaker
     holamundo:
       path: /holamundo/**
       #Para mapeo de las url directas a un servicio
