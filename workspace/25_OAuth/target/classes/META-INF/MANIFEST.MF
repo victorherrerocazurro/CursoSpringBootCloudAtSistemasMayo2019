@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ATSPRESTAMO
+Build-Jdk: 11.0.2
+Implementation-Title: 25_OAuth
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.oauth.spring
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/25_OAuth/
+Created-By: Maven Integration for Eclipse
+
