@@ -20,7 +20,7 @@ import com.atssitemas.curso.tiempo.service.TiempoService;
 public class TiempoRestController {
 	
 	@Autowired
-	private TiempoService tiempoService;
+	TiempoService tiempoService;
 
 	//@RequestParam
 	//?latitud=&longitud=
